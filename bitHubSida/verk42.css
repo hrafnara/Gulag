@@ -1,0 +1,71 @@
+
+
+.mainTexti{
+    background:linear-gradient(darkblue,gray)
+}
+
+.mainTexti1{
+    background:linear-gradient(darkblue,gray);
+    height: 100vh;
+}
+
+blockquote{
+    background: gray;
+}
+
+body{
+    background:darkred;
+}
+
+.header1{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.fooder{
+    
+}
+
+.header2{
+    display: grid;
+    grid-template-columns: 1fr;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.header3{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.or{
+position: fixed;
+bottom: 30px;
+right: 30px;
+
+background: lime;
+width: 70px;
+height: 70px;
+
+border-radius: 50%;
+
+}
+.or1{
+    position: fixed;
+    bottom: 0px;
+    right: 48px;
+    font-size: 55px;
+    }
+
+.navB{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    width: 800px;
+    margin: 5px;
+    padding: 5px;
+    background: black;
+}

@@ -1,0 +1,34 @@
+
+body{
+    border: 1px solid blue;
+    font-family: 'Gill Sans', 'Gill Sans MTTrebuchet MS', sans-serif;
+    
+    background: darkgray;
+    
+width: 800px
+}
+
+.Imagine{
+    color: red;
+
+}
+.red{color: crimson;
+    
+
+}
+.blue{color:blue;
+    text-align: center;
+    
+}
+
+.imagineText{color: rgb(0, 119, 158);
+ }
+
+.green{color: green;}
+
+.prestley{color: red;
+text-align: center}
+
+.bil{
+    padding: 8px;
+}

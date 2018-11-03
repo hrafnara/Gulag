@@ -1,0 +1,63 @@
+
+
+
+.listi{
+    border: dashed 3px green;
+    margin: 1em;
+    padding: 1em;
+    display: block;
+
+}
+
+.listiInline{
+    border: dashed 3px blue;
+    margin: 1em;
+    padding: 1em;
+    display: inline;
+}
+
+.listiBI{
+    border: dashed 3px red;
+    margin: 1em;
+    padding: 1em;
+    display: inline-block ;
+}
+
+div{
+    border: solid 1px red;
+}
+
+
+.float{
+    float:  left ;
+    width: 33.33%;
+    border: solid black;
+
+}
+.float2{
+    float:  left ;
+    width: 50%;
+    border: solid black;
+}
+
+*{box-sizing:
+border-box; }
+
+.graennKassi{
+    border: solid 4px green;
+    margin: 10px;
+
+}
+.raudurKassi{
+    border: solid 3px red;
+    padding: 60px;
+    margin: 10px;
+    
+    
+}
+.blarKassi{
+    border: dashed blue;
+    padding: 10px;
+}
+.blar{color: blue}
+.raudur{color: red;}

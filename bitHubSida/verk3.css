@@ -1,0 +1,54 @@
+.gridRammi1{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.gridRammi2{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+div{
+    border: 1px solid red;
+    padding: 5px;
+}
+
+.font{
+    font-family: 'Times New Roman', Times, sans-serif;
+}
+
+.font1{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.font3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.font4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+
+.gridrammi{
+    display: grid;
+    background: lightgray;
+}
+
+.kL{
+    text-align: center;
+    
+}
+
+.sLEL{
+    font-size: 0.7em;
+line-height: 1.6em;
+}
+
+.poster{
+    font-size: 5em;
+    text-align: center;
+}
+
+.red{
+    color: red
+}
