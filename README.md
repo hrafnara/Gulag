@@ -1,2 +1,3 @@
 # Gulag
 Verkefni 4 hrafnaras
+Verkefni 2 kemur síðar ... 
